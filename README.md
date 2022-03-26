@@ -1,5 +1,6 @@
 # Entrega: Contador de Frequência
 
+Link App - https://kenzie-academy-brasil-developers.github.io/entrega-contador-frequencia-sprint-3-vitorsoaresf/ <br>
 Em qualquer texto, algumas letras serão mais usadas do que outras. Da mesma forma, algumas palavras são mais usadas que outras. Você irá criar uma página web que conta a frequência de diferentes letras e palavras em um bloco de texto.
 
 ## Início
